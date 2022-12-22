@@ -23,21 +23,6 @@
     }
   ],
   "UsersActive": [
-    {
-      "email": "yahav99999@gmail.com",
-      "name": "yahav avramov",
-      "isActive": true,
-      "photo": "https://tse3.explicit.bing.net/th?id=OIP.E_fhjMwpph9T4m8HiWivCwHaGg&pid=Api&P=0",
-      "userActiveDate": "Wed Dec 21 2022 10:22:32 GMT+0200 (Israel Standard Time)",
-      "id": 1
-    },
-    {
-      "email": "yahav6619071@gmail.com",
-      "name": "יהב אברמוב",
-      "isActive": true,
-      "photo": "https://tse3.explicit.bing.net/th?id=OIP.E_fhjMwpph9T4m8HiWivCwHaGg&pid=Api&P=0",
-      "userActiveDate": "Wed Dec 21 2022 10:23:00 GMT+0200 (שעון ישראל (חורף))",
-      "id": 2
-    }
+  
   ]
 }
